@@ -15,7 +15,7 @@ const experience: ExperienceItem[] = [
   {
     role: "Web Developer",
     company: "POFSIS",
-    period: "2023 - Present",
+    period: "January 2025 - Present",
     description: [
       "Developed and maintained web applications focused on the HRC and POFShop platforms.",
       "Designed wireframes and system flows for Real Property features to support development and implementation.",
@@ -26,7 +26,7 @@ const experience: ExperienceItem[] = [
   {
     role: "IT Associate",
     company: "Nauts and Vectors",
-    period: "2022 - 2023",
+    period: "October 2024 - January 2025",
     description: [
       "Managed and maintained the company’s IT asset database, ensuring accurate updates and new entries using Google Sheets and Microsoft Excel.",
       "Provided on-site and remote technical support, troubleshooting hardware, software, and basic network issues.",
@@ -37,7 +37,7 @@ const experience: ExperienceItem[] = [
   {
     role: "Software Developer (Intern)",
     company: "Work Immersion",
-    period: "2022",
+    period: "March 2024 - May 2024",
     description: [
       "Developed a desktop-based database system using Visual Studio, .NET Framework, and Windows Forms.",
       "Implemented real-time database connectivity with MySQL.",
