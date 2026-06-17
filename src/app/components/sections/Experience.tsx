@@ -15,7 +15,7 @@ const experience: ExperienceItem[] = [
   {
     role: "Web Developer",
     company: "POFSIS",
-    period: "January 2025 - Present",
+    period: "January 2025 - June 2026",
     description: [
       "Developed and maintained web applications focused on the HRC and POFShop platforms.",
       "Designed wireframes and system flows for Real Property features to support development and implementation.",
